@@ -1,0 +1,6 @@
+#(=> Strype:1:std
+#(=> Section:Imports
+#(=> Section:Definitions
+#(=> Section:Main
+print("bonjour Strype from branch 1") 
+#(=> Section:End
