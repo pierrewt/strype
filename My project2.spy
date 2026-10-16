@@ -5,6 +5,6 @@ from strype.graphics import *
 from strype.sound import * 
 #(=> Section:Definitions
 #(=> Section:Main
-myString  = "Hello from Strype" 
+myString  = "Hello from a testing Strype" 
 print(myString) 
 #(=> Section:End
